@@ -4,7 +4,7 @@
 <material name="white">
 <color rgba="1 1 1 1" />
  </material>
- 
+
     <material name="orange">
 <color rgba="1 0.3 0.1 1" />
  </material>
@@ -17,4 +17,8 @@
 <color rgba="0 0 0 1" />
  </material>
     
+<link name="base_link">
+
+</link>
+
 </robot>
