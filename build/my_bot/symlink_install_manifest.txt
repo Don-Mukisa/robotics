@@ -1,4 +1,6 @@
 /home/don/final Project/robotics/install/my_bot/share/my_bot/config/empty.yaml
+/home/don/final Project/robotics/install/my_bot/share/my_bot/config/view_bot.rviz
+/home/don/final Project/robotics/install/my_bot/share/my_bot/description/inertial_macros.xacro
 /home/don/final Project/robotics/install/my_bot/share/my_bot/description/robot.urdf.xacro
 /home/don/final Project/robotics/install/my_bot/share/my_bot/description/robot_core.xacro
 /home/don/final Project/robotics/install/my_bot/share/my_bot/launch/rsp.launch.py

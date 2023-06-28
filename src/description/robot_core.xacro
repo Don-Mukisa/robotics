@@ -64,14 +64,14 @@
 
     <link name="left_wheel">
         <visual>
-            <origin xyz="0.15 0 0.075" />
+            <!--origin xyz="0.15 0 0.075" /-->
             <geometry>
                 <cylinder radius="0.05" length="0.04" />
             </geometry>
             <material name="blue" />
         </visual>
         <collision>
-            <origin xyz="0.15 0 0.075" />
+            <!-- origin xyz="0.15 0 0.075" /-->
             <geometry>
                 <cylinder radius="0.05" length="0.04" />
             </geometry>
@@ -91,14 +91,14 @@
 
     <link name="right_wheel">
         <visual>
-            <origin xyz="0.15 0 0.075" />
+            <!--origin xyz="0.15 0 0.075" /-->
             <geometry>
                 <cylinder radius="0.05" length="0.04" />
             </geometry>
             <material name="blue" />
         </visual>
         <collision>
-            <origin xyz="0.15 0 0.075" />
+            <!--origin xyz="0.15 0 0.075" /-->
             <geometry>
                 <cylinder radius="0.05" length="0.04" />
             </geometry>
