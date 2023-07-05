@@ -3,6 +3,7 @@
 /home/don/final Project/robotics/install/my_bot/share/my_bot/description/inertial_macros.xacro
 /home/don/final Project/robotics/install/my_bot/share/my_bot/description/robot.urdf.xacro
 /home/don/final Project/robotics/install/my_bot/share/my_bot/description/robot_core.xacro
+/home/don/final Project/robotics/install/my_bot/share/my_bot/launch/launch_sim.launch.py
 /home/don/final Project/robotics/install/my_bot/share/my_bot/launch/rsp.launch.py
 /home/don/final Project/robotics/install/my_bot/share/my_bot/worlds/empty.world
 /home/don/final Project/robotics/install/my_bot/share/ament_index/resource_index/package_run_dependencies/my_bot
